@@ -1,0 +1,12 @@
+{
+  "name": "skillquest-ai",
+  "version": "1.0.0",
+  "description": "SkillQuest AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
